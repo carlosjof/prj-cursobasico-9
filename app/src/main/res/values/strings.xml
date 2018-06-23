@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MagicBall</string>
+    <string name="todo">TODO</string>
+    <string name="preguntame">¡Preguntame!</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="info">Para usar magic 8 ball primero hay que \'preguntarle a la bola\', una pregunta que se pueda responder con un simple si o no, el suario debe de agitar el telefono de derecha a izquierda para asi recibir la respuesta a su pregunta.</string>
+    <string name="aayuda">Ayuda</string>
+    <string name="button_">Button</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string-array name="respuesta">
+        <item>En mi opinión, sí</item>
+        <item> Es cierto</item>
+        <item>Es cierto</item>
+        <item>Es decididamente así</item>
+        <item>Probablemente</item>
+        <item>Buen pronóstico</item>
+        <item>Todo apunta a que sí</item>
+        <item>Sin duda</item>
+        <item>Sí</item>
+        <item>Sí - definitivamente</item>
+        <item>Debes confiar en ello</item>
+        <item>Respuesta vaga, vuelve a intentarlo</item>
+        <item>Pregunta en otro momento</item>
+        <item>Será mejor que no te lo diga ahora</item>
+        <item>No puedo predecirlo ahora</item>
+        <item>Concéntrate y vuelve a preguntar</item>
+        <item>No cuentes con ello</item>
+        <item>Mi respuesta es no</item>
+        <item>Mis fuentes me dicen que no</item>
+        <item>Las perspectivas no son buenas</item>
+        <item>Muy dudoso</item>
+    </string-array>
+</resources>
